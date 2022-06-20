@@ -10,7 +10,7 @@ Eu me  chamo Alessandro
 
 ## Atualmente estudando
 
-- Git e Github
+- Git e GitHub
 - React
 - Javascript e Typescript
 
