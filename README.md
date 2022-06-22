@@ -22,3 +22,5 @@ Moro na zona norte de SP capital, em Pirituba
 
 - Email aabssampaio@gmail.com
 - LinkedIn: AlessandroSampaio
+- GitHub @alesampaio70
+- Instagram @ale.sampaio70
