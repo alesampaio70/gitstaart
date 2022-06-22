@@ -21,4 +21,4 @@ Moro na zona norte de SP capital, em Pirituba
 ## Meus contatos
 
 - Email aabssampaio@gmail.com
-- LinkedIn: AlessandroSAmpaio
+- LinkedIn: AlessandroSampaio
